@@ -1,4 +1,4 @@
-# 🔐 CeasarJaw
+# 🔐 CaesarJaw
 
 ## 📜 Description
 This C++ program provides encryption and decryption functionalities using a simple shift cipher (Caesar cipher). It allows users to:
